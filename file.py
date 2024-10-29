@@ -5,6 +5,7 @@ my_cache = deque()
 my_cache.append(1)
 my_cache.append(2)
 my_cache.append(3)
+My_cache.append(4) 
 
 my_cache.appendleft(-1) 
 my_cache.appendleft(-2) 
